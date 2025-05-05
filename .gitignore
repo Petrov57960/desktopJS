@@ -3,3 +3,4 @@ dist/
 *.pyc
 .env
 __pycache__/
+tmp/
